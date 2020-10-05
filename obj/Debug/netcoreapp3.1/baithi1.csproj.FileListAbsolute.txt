@@ -1,0 +1,13 @@
+C:\LN\baithi1\bin\Debug\netcoreapp3.1\baithi1.exe
+C:\LN\baithi1\bin\Debug\netcoreapp3.1\baithi1.deps.json
+C:\LN\baithi1\bin\Debug\netcoreapp3.1\baithi1.runtimeconfig.json
+C:\LN\baithi1\bin\Debug\netcoreapp3.1\baithi1.runtimeconfig.dev.json
+C:\LN\baithi1\bin\Debug\netcoreapp3.1\baithi1.dll
+C:\LN\baithi1\bin\Debug\netcoreapp3.1\baithi1.pdb
+C:\LN\baithi1\obj\Debug\netcoreapp3.1\baithi1.csprojAssemblyReference.cache
+C:\LN\baithi1\obj\Debug\netcoreapp3.1\baithi1.AssemblyInfoInputs.cache
+C:\LN\baithi1\obj\Debug\netcoreapp3.1\baithi1.AssemblyInfo.cs
+C:\LN\baithi1\obj\Debug\netcoreapp3.1\baithi1.csproj.CoreCompileInputs.cache
+C:\LN\baithi1\obj\Debug\netcoreapp3.1\baithi1.dll
+C:\LN\baithi1\obj\Debug\netcoreapp3.1\baithi1.pdb
+C:\LN\baithi1\obj\Debug\netcoreapp3.1\baithi1.genruntimeconfig.cache
